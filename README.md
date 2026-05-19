@@ -1,2 +1,2 @@
-# Data-Analytics
-Proyectos del curso de análisis de data 
+# Análisis de las muertes por covid en EEUU 
+
