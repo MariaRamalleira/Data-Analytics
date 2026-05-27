@@ -1,6 +1,7 @@
 # 📊 Dashboard de Análisis de Ventas - Supermercado EE.UU.
 
 > Dashboard y análisis exploratorio del rendimiento histórico de ventas (2015-2018).
+URL del google Sheets: https://docs.google.com/spreadsheets/d/1cG-UYHnXIrhIJmV_dJ0rTkzkDjc7prO4iLhv-xAVuaE/edit?usp=sharing
 
 ---
 
@@ -13,12 +14,11 @@ El análisis se centra en identificar patrones de consumo en meses específicos,
 
 ## 📂 2. Estructura del Proyecto
 Organización de los archivos y componentes que forman parte del flujo de trabajo:
-
-├── supermarket.csv/       # Base de datos original de transacciones del supermercado.
-├── dashboard/             # Archivo de hojas de cálculo con las tablas dinámicas y Dashboard visual.
-├── /                      # Informe ejecutivo final con la redacción del análisis.
-└── README.md              # Documentación general del proyecto (este archivo).
-
+```text
+├── supermarket.csv/                            # Base de datos original de transacciones del supermercado.
+├── Informe Explicativo del Análisis.pdf /      # Informe ejecutivo final con la redacción del análisis. 
+└── README.md                                   # Documentación general del proyecto. Contiene la URL del google sheets.
+````
 ## ⚙️ 3. Instalación y Requisitos
 Para interactuar y explorar el proyecto de forma local, se requieren las siguientes herramientas:
 
